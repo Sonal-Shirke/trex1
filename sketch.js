@@ -116,7 +116,7 @@ background("black");
     cloudsGroup.setLifetimeEach(-1);
   }
   
-mouse
+
   drawSprites();
 }// function draw ends here
 
